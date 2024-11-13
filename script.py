@@ -9,4 +9,7 @@ def fileopener(file):
         
 
 
+
+
+
 fileopener("data.txt")
