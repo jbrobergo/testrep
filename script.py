@@ -6,6 +6,7 @@ def fileopener(file):
         for fl in name_list:
             name_dict[fl[0]] = fl[1]
         print(name_dict)
+        return None
 
 
 fileopener("data.txt")
